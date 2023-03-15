@@ -1,0 +1,12 @@
+{
+  "name": "Sourav singh",
+  "type": "personal",
+  "bio": "front-end developer ",
+  "links":[
+  {
+   "name":"follow me on twitter",
+   "url": "https://twitter.com/souravs_2003",
+    "icon":"FaTwitter"
+   }
+  ]
+}
